@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final year BEng (Hons) Computer Science student at The University of Edinburgh. 
+I'm a full-stack Software Engineer based in London.
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nisiman.xyz/)
 ## 🌐 Socials:
